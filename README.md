@@ -51,4 +51,4 @@ Contributions are welcome. Please submit issues or pull requests for improvement
 
 ## Contact
 
-For questions or assistance, contact [your-email@example.com].
+For questions or assistance, contact [luca.bachetti.spurio@gmail.com].
