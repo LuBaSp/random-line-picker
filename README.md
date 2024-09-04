@@ -35,7 +35,7 @@ python random_line_selector.py
 
 ## Download Executable
 
-You can download the precompiled executable from the [Releases page](<release-url>).
+You can download the precompiled executable from the [Releases page](<https://github.com/LuBaSp/random-line-picker>).
 
 ### Using the Executable
 1. Download and extract the ZIP file from the Releases page.
